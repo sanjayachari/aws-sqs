@@ -1,0 +1,60 @@
+# Python related
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+env/
+venv/
+ENV/
+ENV.*/
+.venv
+.venv/
+*.env
+
+# FastAPI/Uvicorn related
+instance/
+*.log
+*.sqlite3
+*.db
+*.pid
+*.pyc
+*.pyo
+
+# Node.js related
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Express/JavaScript related
+.DS_Store
+*.log
+*.env
+*.tsbuildinfo
+dist/
+
+# Logs
+logs/
+*.log
+*.out
+*.log.*
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IDE related files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+new_env
