@@ -1,0 +1,86 @@
+INSERT INTO combined_db.cee_sector_table (section_type_id,sector_name,`timestamp`) VALUES
+	 (7,'Agriculture and Allied Industries',1707580011000),
+	 (7,'Automobiles',1707580011000),
+	 (7,'Aviation',1707580011000),
+	 (7,'Banking',1707580011000),
+	 (7,'Biotechnology',1707580011000),
+	 (7,'Cement',1707580011000),
+	 (7,'Chemicals',1707580011000),
+	 (7,'Consumer Durables',1707580011000),
+	 (7,'Defence Manufacturing',1707580011000),
+	 (7,'E-Commerce',1707580011000);
+INSERT INTO combined_db.cee_sector_table (section_type_id,sector_name,`timestamp`) VALUES
+	 (7,'Education and Training',1707580011000),
+	 (7,'Electronics System Design & Manufacturing',1707580011000),
+	 (7,'Engineering and Capital Goods',1707580011000),
+	 (7,'Financial Services',1707580011000),
+	 (7,'FMCG',1707580011000),
+	 (7,'Gems and Jewellery',1707580011000),
+	 (7,'Healthcare',1707580011000),
+	 (7,'Infrastructure',1707580011000),
+	 (7,'Insurance',1707580011000),
+	 (7,'IT & BPM',1707580011000);
+INSERT INTO combined_db.cee_sector_table (section_type_id,sector_name,`timestamp`) VALUES
+	 (7,'Manufacturing',1707580011000),
+	 (7,'Media and Entertainment',1707580011000),
+	 (7,'Medical Devices',1707580011000),
+	 (7,'Metals and Mining',1707580011000),
+	 (7,'MSME',1707580011000),
+	 (7,'Oil and Gas',1707580011000),
+	 (7,'Pharmaceuticals',1707580011000),
+	 (7,'Ports',1707580011000),
+	 (7,'Power',1707580011000),
+	 (7,'Real Estate',1707580011000);
+INSERT INTO combined_db.cee_sector_table (section_type_id,sector_name,`timestamp`) VALUES
+	 (7,'Renewable Energy',1707580011000),
+	 (7,'Retail',1707580011000),
+	 (7,'Roads',1707580011000),
+	 (7,'Science and Technology',1707580011000),
+	 (7,'Services',1707580011000),
+	 (7,'Steel',1707580011000),
+	 (7,'Telecommunications',1707580011000),
+	 (7,'Textiles',1707580011000),
+	 (7,'Tourism and Hospitality',1707580011000),
+	 (8,'Agriculture and Allied Industries',1707581314000);
+INSERT INTO combined_db.cee_sector_table (section_type_id,sector_name,`timestamp`) VALUES
+	 (8,'Automobiles',1707581317000),
+	 (8,'Aviation',1707581319000),
+	 (8,'Banking',1707581321000),
+	 (8,'Biotechnology',1707581323000),
+	 (8,'Cement',1707581325000),
+	 (8,'Chemicals',1707581327000),
+	 (8,'Consumer Durables',1707581328000),
+	 (8,'Defence Manufacturing',1707581330000),
+	 (8,'E-Commerce',1707581333000),
+	 (8,'Education and Training',1707581335000);
+INSERT INTO combined_db.cee_sector_table (section_type_id,sector_name,`timestamp`) VALUES
+	 (8,'Electronics System Design & Manufacturing',1707581336000),
+	 (8,'Engineering and Capital Goods',1707581339000),
+	 (8,'Financial Services',1707581341000),
+	 (8,'FMCG',1707581343000),
+	 (8,'Gems and Jewellery',1707581346000),
+	 (8,'Healthcare',1707581348000),
+	 (8,'Infrastructure',1707581350000),
+	 (8,'Insurance',1707581352000),
+	 (8,'IT & BPM',1707581354000),
+	 (8,'Manufacturing',1707581356000);
+INSERT INTO combined_db.cee_sector_table (section_type_id,sector_name,`timestamp`) VALUES
+	 (8,'Media and Entertainment',1707581358000),
+	 (8,'Medical Devices',1707581361000),
+	 (8,'Metals and Mining',1707581363000),
+	 (8,'MSME',1707581365000),
+	 (8,'Oil and Gas',1707581367000),
+	 (8,'Pharmaceuticals',1707581369000),
+	 (8,'Ports',1707581371000),
+	 (8,'Power',1707581373000),
+	 (8,'Real Estate',1707581376000),
+	 (8,'Renewable Energy',1707581378000);
+INSERT INTO combined_db.cee_sector_table (section_type_id,sector_name,`timestamp`) VALUES
+	 (8,'Retail',1707581379000),
+	 (8,'Roads',1707581381000),
+	 (8,'Science and Technology',1707581383000),
+	 (8,'Services',1707581385000),
+	 (8,'Steel',1707581388000),
+	 (8,'Telecommunications',1707581390000),
+	 (8,'Textiles',1707581392000),
+	 (8,'Tourism and Hospitality',1707581394000);

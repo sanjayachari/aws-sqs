@@ -1,0 +1,287 @@
+process_id,student_name,Student_email,Student_contact_number,Mentor_allocated,mentor_email_id,start_date,start_time,end_date,end_time,order_flag,mentor_feedback_submitted,mentor_feedback_not_submitted
+183,"Alagu Chellam N",anatarajan0604@gmail.com,8098630513,"Not Found",NULL,NULL,NULL,NULL,NULL,Purchased,0,1
+183,"Pritam Sinha",pritamsinha231214@msrim.org,7903622605,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Shanith S Shetty",shanithshetty231243@msrim.org,6360825332,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Done,1,0
+183,"Vikas Kumar",vikaskumar231207@msrim.org,8217096394,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,18:00:00.0000,2024-09-15,18:30:00.0000,Scheduled,0,1
+183,"Bharath Vaj.M",bharathvajm231009@msrim.org,6360457628,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Pratisruti Roy",pratisrutiroy231216@msrim.org,9583611035,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Ayushi Vatsa",ayushivatsa231206@msrim.org,9016143359,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Scheduled,0,1
+183,"Shetty Prathik Santhosh",shettyprathiksanthosh231294@msrim.org,6364253100,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,14:15:00.0000,2024-09-15,14:45:00.0000,Done,1,0
+183,"Pavan Kumar V.S",vspavankumar231185@msrim.org,9591469987,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,15:00:00.0000,2024-09-15,15:30:00.0000,Done,1,0
+183,"Mandar Mahesh Hubli",mandarmhubli231016@msrim.org,7411430344,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,17:30:00.0000,2024-09-15,18:00:00.0000,Scheduled,0,1
+183,"Veera Venkata Vineeth Kumar Manchikanti",mvineethkumar231075@msrim.org,8919787385,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,12:30:00.0000,2024-09-15,13:00:00.0000,Done,1,0
+183,"Kundan Kashyap",kundankashyap231197@msrim.org,8651920011,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,14:30:00.0000,2024-09-15,15:00:00.0000,Done,1,0
+183,"Ravikanth M",ravikanthm231034@msrim.org,9964327999,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Scheduled,0,1
+183,"Aman R",amanr231004@msrim.org,7760801941,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,12:00:00.0000,2024-09-15,12:30:00.0000,Done,1,0
+183,"Pravesh Chettri Barakoti",xaverianfamily@gmail.com,8167871399,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Done,1,0
+183,"Nirjhar Das",nirjhardas231027@msrim.org,8348538514,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,11:30:00.0000,2024-09-15,12:00:00.0000,Done,1,0
+183,"Abdul Qadeer",abdulqadeer231205@msrim.org,6204272026,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Sreepreethi S",sreepreethis2002@gmail.com,7259211066,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Done,1,0
+183,"Diksha Mishra",dikshamishra231156@msrim.org,6207909282,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Paramjeet Roy",paramjeetroy21@gmail.com,8697095476,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Anshuman Roy",anshumanroy231261@msrim.org,6297844682,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,17:30:00.0000,2024-09-14,18:00:00.0000,Done,1,0
+183,"K B Sanath",sanathkb231085@msrim.org,9448549596,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,17:00:00.0000,2024-09-15,17:30:00.0000,Done,1,0
+183,"Devesh Srivastava",deveshsrivastava231266@msrim.org,8175803041,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Done,1,0
+183,"Ankita Chaurasia",ankitachaurasia231260@msrim.org,6205192559,"Rakesh Roushan",rakeshr2015@email.iimcal.ac.in,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Scheduled,0,1
+183,"Siddhant Singh",siddhantsingh231194@msrim.org,9565480282,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,11:00:00.0000,2024-09-15,11:30:00.0000,Done,1,0
+183,"Preetham S",preethams231125@msrim.org,8296536775,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,17:30:00.0000,2024-09-14,18:00:00.0000,Done,1,0
+183,"Aman Kumar Modanwal",amankumarmodanwal231056@msrim.org,6207286907,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Done,1,0
+183,"Aishwarya S R",aishwaryasr231066@msrim.org,9739323919,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Done,1,0
+183,"Rishabh Tiwari",rishabhtiwari231190@msrim.org,8809327581,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,10:00:00.0000,2024-09-14,10:30:00.0000,Done,1,0
+183,"Nishanth J V",nishanthjv231122@msrim.org,9952725583,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,10:30:00.0000,2024-09-15,11:00:00.0000,Done,1,0
+183,"Harshith Reddy",harshithreddy231158@msrim.org,8884557647,"Not Found",NULL,NULL,NULL,NULL,NULL,Purchased,0,1
+183,"Peeyush Gupta",peeyushgupta231189@msrim.org,7766981245,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,12:15:00.0000,2024-09-15,12:45:00.0000,Done,1,0
+183,"Sagar S R",sagarsr231084@msrim.org,9164461074,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,12:45:00.0000,2024-09-15,13:15:00.0000,Done,1,0
+183,"Shivani Subash Hegde",shivanihegde231039@msrim.org,7259126927,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Abhigyan Bhardwaz",abhigyanbhardwaz231001@msrim.org,7545048965,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Scheduled,0,1
+183,"Keerthana Mp",keerthanamp231022@msrim.org,9074055858,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"Chirag Patel",cp468527@gmail.com,9844191901,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Done,1,0
+183,"Abhishek Kumar",abhishekkumar231196@msrim.org,8521781246,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,15:15:00.0000,2024-09-15,15:45:00.0000,Done,1,0
+183,"Harshith H",harshithh231114@msrim.org,9611836247,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Apsara Sabya",apsarasabyab231107@msrim.org,9148890961,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"Sumi Podder",sumipodder231092@msrim.org,9748762018,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Himanshi Seth",himanshiseth20@gmail.com,7322882365,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"Sandeep St",sandeepst231174@msrim.org,7619340026,"Rakesh Roushan",rakeshr2015@email.iimcal.ac.in,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Scheduled,0,1
+183,"Tullika Chakraborty",tullikachakraborty231300@msrim.org,8226082499,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Akhilesh V",akhileshv231054@msrim.org,9845972733,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Scheduled,0,1
+183,"G Dinesh",dineshpagadala27@gmail.com,9391116548,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,10:00:00.0000,2024-09-14,10:30:00.0000,Done,1,0
+183,"Varad Sudhakar Rane",ranevaradsudhakar231170@msrim.org,8369792338,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"Poralla Harshitha",porallaharshitha231201@msrim.org,7093922035,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,18:00:00.0000,2024-09-15,18:30:00.0000,Done,1,0
+183,"Jeevithkumar K",jeevithkumark.jk@gmail.com,6363979994,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Akhil S Binu",nivinsbinu1984@gmail.com,9995186401,"Rakesh Roushan",rakeshr2015@email.iimcal.ac.in,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Scheduled,0,1
+183,"Donda Swarnika Devi",swarnikadevidonda231093@msrim.org,8179478480,"Rakesh Roushan",rakeshr2015@email.iimcal.ac.in,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Scheduled,0,1
+183,"Shrinivasa Hegde",shrinivasahegde231040@msrim.org,9632631106,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,10:30:00.0000,2024-09-15,11:00:00.0000,Done,1,0
+183,"Amuri Kushaal",amurikushaal231057@msrim.org,8106889001,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"Ruchika Chakraborty",ruchikachakraborty231287@msrim.org,6381200603,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,14:15:00.0000,2024-09-15,14:45:00.0000,Done,1,0
+183,"Tanushree Chowdhury",tanushreechowdhury231180@msrim.org,8250420301,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,15:15:00.0000,2024-09-15,15:45:00.0000,Done,1,0
+183,"Sha Mohammed  Akif",shamohammedsha231292@msrim.org,9606281246,"Venkata Erugu",suman.chin@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Scheduled,0,1
+183,"Shalu Sebastian",shalusebastian231176@msrim.org,9656399407,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"R K Kamakshi",rkkamakshi231071@msrim.org,8639836591,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"Gowthami Mn",gowthamin231113@msrim.org,6360157743,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Done,1,0
+183,"Sreerag Suresh",sreerage231042@msrim.org,8086987038,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Scheduled,0,1
+183,"Hithesh Y",hitheshy231018@msrim.org,9353452277,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,10:30:00.0000,2024-09-15,11:00:00.0000,Done,1,0
+183,"Charan R",charanr231109@msrim.org,8197991199,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,17:00:00.0000,2024-09-15,17:30:00.0000,Scheduled,0,1
+183,"Vedika Chauhan",vedikach231145@msrim.org,9560470977,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Done,1,0
+183,"Sweta Kumari Kumari",swetakumari231143@msrim.org,9304676859,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,17:30:00.0000,2024-09-14,18:00:00.0000,Done,1,0
+183,"Harsh Godara",harshgodara231068@msrim.org,9664113855,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Sunil S Jamadar",sunilsjamadar231142@msrim.org,7795315895,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"Papudippu Sai Deekshitha",papudippusaideekshitha231028@msrim.org,8978197611,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Done,1,0
+183,"Poullami Saha",poullamisaha231123@msrim.org,8638228504,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,12:15:00.0000,2024-09-15,12:45:00.0000,Done,1,0
+183,"B Hemanth Kumar",hemanthkumar232001@msrim.org,9492177855,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0
+183,"Pranshu Kumar",pranshukumar231284@msrim.org,8505062400,"Rakesh Roushan",rakeshr2015@email.iimcal.ac.in,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Scheduled,0,1
+183,"Shagun Joshi",shagunjoshi231293@msrim.org,8081199508,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Done,1,0
+183,"Ayushi Chamoli",ayushichamoli231262@msrim.org,7078824927,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,12:45:00.0000,2024-09-15,13:15:00.0000,Done,1,0
+183,"Prabhudattsinh P Rana",ranaprabhudatt231236@msrim.org,6358796015,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"Pragya Singh",pragyasingh231282@msrim.org,9140294666,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,12:15:00.0000,2024-09-15,12:45:00.0000,Done,1,0
+183,"Alisha Singh",alishasingh231257@msrim.org,7070347320,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,14:15:00.0000,2024-09-15,14:45:00.0000,Done,1,0
+183,"Rebecca Samuel",rebeccasamuel231286@msrim.org,7259069851,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Sayam Pandey",sayampandey231213@msrim.org,9131827465,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,17:00:00.0000,2024-09-15,17:30:00.0000,Done,1,0
+183,"Sanjana Kumari",sanjanakumari231199@msrim.org,8105760983,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"Ankita Chaurasia",ankitachaurasia231260@msrim.org,6205192559,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"Thanmayee Rusum",rusumthanmayee231249@msrim.org,8309976130,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,18:15:00.0000,2024-09-14,18:45:00.0000,Done,1,0
+183,"Debjyoti Saha",debjyotisaha231264@msrim.org,7001859731,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Rusum Thanmayee",thanmayeerusum@gmail.com,8309976130,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,18:45:00.0000,2024-09-14,19:15:00.0000,Scheduled,0,1
+183,"Rajyalakshmi Boddu",boddurajyalakshmi231231@msrim.org,9515282676,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,17:30:00.0000,2024-09-14,18:00:00.0000,Done,1,0
+183,"Shweta Chavan",shwetachavan231250@msrim.org,9008699825,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Done,1,0
+183,"Tushar V",tusharv231181@msrim.org,8296097586,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,15:15:00.0000,2024-09-15,15:45:00.0000,Done,1,0
+183,"Nikhil Suhas Kulkarni",nikhilsuhaskulkarni231182@msrim.org,9019755564,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Scheduled,0,1
+183,"Sanjita Bora",sanjitabora231086@msrim.org,9957157701,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,12:45:00.0000,2024-09-15,13:15:00.0000,Done,1,0
+183,"Shreyansh Narayan Deo",shreyanshnarayandeo231136@msrim.org,9206429314,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"Siddhi Gokul Selvaraj",siddhigokulselvaraj231089@msrim.org,7382037564,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0
+183,"Bhavya N",bhavyan231062@msrim.org,6366508643,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Rahul Haridasan",rahulharidasan231128@msrim.org,7259008047,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"V Gokul Krishna",gokulkrishna231067@msrim.org,8310000895,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Mukul M",mukulm231025@msrim.org,9745609958,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,18:00:00.0000,2024-09-14,18:30:00.0000,Scheduled,0,1
+183,"Sanket Abhijeet Borgaonkar",sanketabhijeetborgaonkar231133@msrim.org,9148935101,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Done,1,0
+183,"Sravan Ss",sravanss231140@msrim.org,7902415779,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Vedansh Jaiswal",vedanshjaiswal06@gmail.com,7355648517,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Sumanth S Nayak",sumanthnayak231043@msrim.org,9148130573,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Done,1,0
+183,"Sahil Soren",sahilsoren231131@msrim.org,8789749926,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,11:00:00.0000,2024-09-15,11:30:00.0000,Done,1,0
+183,"Aditi Singh",aditisingh231052@msrim.org,7004165101,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"Yash Gupta",yashgupta7512@gmail.com,9663939123,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Shaswati Sarma",shaswatisarma231087@msrim.org,9101024698,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Done,1,0
+183,"Madhurima Goswami",madhurimagoswami231074@msrim.org,9864188010,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"B Asmita",basmita231108@msrim.org,8637005229,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"Chinmay L",chinmayl231011@msrim.org,9844248427,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Done,1,0
+183,"Yadhukrishnan C Valsan",yadhu2000cv@gmail.com,9746799174,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,12:15:00.0000,2024-09-15,12:45:00.0000,Done,1,0
+183,"Ananthakrishnan K S",ananthkr622@gmail.com,9074162965,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"Sanjay N",sanjayn231037@msrim.org,8880199990,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,12:45:00.0000,2024-09-15,13:15:00.0000,Done,1,0
+183,"Vaishnavi Mishra",vaishnavimishra231095@msrim.org,7470808119,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,17:45:00.0000,2024-09-14,18:15:00.0000,Scheduled,0,1
+183,"Srinithish B",srinithishb231091@msrim.org,8220440491,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"Richie Mathew Changaroth",changarothrichiemathew231010@msrim.org,8511933044,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,18:15:00.0000,2024-09-14,18:45:00.0000,Scheduled,0,1
+183,"Joel Alan Paul",joelalanpaul231070@msrim.org,9360097665,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Done,1,0
+183,"Manoj Balasubramanian",manojb231120@msrim.org,7598110088,"Rakesh Roushan",rakeshr2015@email.iimcal.ac.in,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Scheduled,0,1
+183,"Debashree Dhar",debashreedhar231012@msrim.org,8486988746,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,14:15:00.0000,2024-09-15,14:45:00.0000,Done,1,0
+183,"Nikhil Kumar Bagti",nikhilkumarbagti231121@msrim.org,7667811682,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Done,1,0
+183,"Prerana M R",preranamr231126@msrim.org,9480041254,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"Priyanshi Sen",priyanshisen231031@msrim.org,8837347928,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,15:15:00.0000,2024-09-15,15:45:00.0000,Done,1,0
+183,"Vivek Gupta",vivekgupta231147@msrim.org,8972370555,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Done,1,0
+183,"Dhanush P",dhanushp231111@msrim.org,6383739595,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Eyvin Joseph",eyvinjoseph231014@msrim.org,9539614992,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,10:30:00.0000,2024-09-15,11:00:00.0000,Done,1,0
+183,"Not Found",aksharapandey231003@msrim.org,9264918370,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,17:00:00.0000,2024-09-15,17:30:00.0000,Done,1,0
+183,"Prasanna S Hegde",prasannashegde231079@msrim.org,9108413921,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,12:15:00.0000,2024-09-15,12:45:00.0000,Done,1,0
+183,"Isha Jha",ishajha231019@msrim.org,8084738806,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,12:45:00.0000,2024-09-15,13:15:00.0000,Done,1,0
+183,"Sk Nayab Shareef",shaiknayabshareef786@gmail.com,7095216150,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Deepak Kumar",deepakkumar231065@msrim.org,9169533660,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Kumari Priyanka",kumaripriyanka231118@msrim.org,6361556693,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,14:15:00.0000,2024-09-15,14:45:00.0000,Done,1,0
+183,"Neha M Vashisht",nehamvashisht231023@msrim.org,9844456967,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Done,1,0
+183,"Pooja Sasnur",poojasasnur231078@msrim.org,8197743508,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Done,1,0
+183,"Sheetal Kumari",sheetal14kumari@gmail.com,8292092496,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"Akshata B H",akshatabh231055@msrim.org,9380752524,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Sushrutha A",sushruthabraje@gmail.com,9495950071,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Harshitha R",harshithar231017@msrim.org,9108005672,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Jayakrishnan P K",jayakrishnanpk231020@msrim.org,7012937649,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,12:45:00.0000,2024-09-15,13:15:00.0000,Done,1,0
+183,"Ankit Kumar",ankitkr.jsr@gmail.com,7091652332,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"Rohit Loni",rohitloni231130@msrim.org,9743695555,"Rakesh Roushan",rakeshr2015@email.iimcal.ac.in,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Scheduled,0,1
+183,"Yathiraj R D",yathirajrd231100@msrim.org,7619165418,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Scheduled,0,1
+183,"Sidhanth Muralidhar Ponnaluri",sidhanthmuralidharponnaluri231138@msrim.org,9916540040,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,17:45:00.0000,2024-09-14,18:15:00.0000,Done,1,0
+183,"Akshaya Lakshmi Perumal",akshayalakshmip231103@msrim.org,6374213634,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,10:30:00.0000,2024-09-15,11:00:00.0000,Done,1,0
+183,"Subitsha J",subitshaj231141@msrim.org,6369758464,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,17:30:00.0000,2024-09-15,18:00:00.0000,Scheduled,0,1
+183,"Ram Prasad Venkatesh",ramprasadm231129@msrim.org,6366213389,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Akilesh Kumar N",akileshkumarn231112@msrim.org,9945602209,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,10:00:00.0000,2024-09-14,10:30:00.0000,Done,1,0
+183,"Sirat Dhani",siratdhani231032@msrim.org,8900355689,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"Madhuparna Mitra",madhupaarnamitra231024@msrim.org,9101095795,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"Meghana Kadimella",kadimellameghana231021@msrim.org,7569499507,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Done,1,0
+183,"Ayush Gupta",ayushgupta5aug@gmail.com,8789581166,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,18:00:00.0000,2024-09-14,18:30:00.0000,Done,1,0
+183,"Shreya H R",shreyahr231088@msrim.org,9741641061,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,17:30:00.0000,2024-09-14,18:00:00.0000,Done,1,0
+183,"Kartik Naresh Mundhada",kartimundhada@gmail.com,8830469849,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Shivarajkumar Rajkumar Bhovi",shivarajkumarbhovi231232@msrim.org,9148345768,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,17:00:00.0000,2024-09-15,17:30:00.0000,Done,1,0
+183,"Shri Hari S",shriharis231191@msrim.org,9980921970,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,17:30:00.0000,2024-09-15,18:00:00.0000,Done,1,0
+183,"Nithin T",nithint231237@msrim.org,7760790164,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0
+183,"Tej Raj M P",tejrajmp231211@msrim.org,9206811463,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"Avinash Kumar",avinashkumar231008@msrim.org,7368086617,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Saiesh K",ksaiesh231173@msrim.org,9391405688,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Done,1,0
+183,"Sudheer Reddy",sudheerreddy231245@msrim.org,7989473611,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-15,17:30:00.0000,2024-09-15,18:00:00.0000,Done,1,0
+183,"Rupamjyoti Das",rupamjyotidas231172@msrim.org,8638101789,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Done,1,0
+183,"Patnala Khushi",patnalakhushi231280@msrim.org,8847838779,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"S Neeraj",sneeraj231188@msrim.org,9019188456,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Sammith Shetty N",sammith76@gmail.com,8861713497,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"Athul Ramesh O",athulramesho231154@msrim.org,9207266098,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"K Manish Singha",manishsingha231274@msrim.org,8638754248,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Jashwanth Donthi",donthijashwanth231157@msrim.org,9502485974,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,14:15:00.0000,2024-09-15,14:45:00.0000,Done,1,0
+183,"Pocha Sri Chandana",pochachandana231221@msrim.org,8498802053,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,17:30:00.0000,2024-09-14,18:00:00.0000,Done,1,0
+183,"Lohith Kumar Dr",lohithkumardr231248@msrim.org,9110643661,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,10:00:00.0000,2024-09-14,10:30:00.0000,Done,1,0
+183,"Sujan S",sujans231178@msrim.org,9611745827,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Done,1,0
+183,"Aniruddh Kulkarni",aniruddhkulkarni231259@msrim.org,7022623973,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,14:15:00.0000,2024-09-15,14:45:00.0000,Done,1,0
+183,"Vijay Kumar B Loni",vijaykumarloni9@gmail.com,7760777436,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Done,1,0
+183,"Avinik M M",avinikmm231224@msrim.org,9482535119,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"K E Karthik",karthikkaranam231160@msrim.org,7601089112,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,17:00:00.0000,2024-09-15,17:30:00.0000,Done,1,0
+183,"Vaishnavi Singh",vaishnavisingh231144@msrim.org,8088768293,"Avinash Vishnu",avinashvc@gmail.com,2024-09-15,11:00:00.0000,2024-09-15,11:30:00.0000,Done,1,0
+183,"Srinidhi Ashokan",srinidhia231192@msrim.org,7676065918,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"Neha Kumari",nehakumari231278@msrim.org,6287668467,"Abhinav Saxena",pratul.abhinav@gmail.com,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"N T Mehak",ntmehak231254@msrim.org,8853432201,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Mayank Sethia",mayanksethia2002@gmail.com,9830164120,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Done,1,0
+183,"Aksha P",akshap231256@msrim.org,8792163126,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"Shreyas Sanjay Lakade",shreyasslakade231233@msrim.org,7385662131,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Mahamood Sanaf Abdul Khader",sanaf231163@msrim.org,7558011510,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"Sunny Preetham Angadi",sunnypreethamangadi231219@msrim.org,9663070203,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Done,1,0
+183,"Dolan Saha",dolansaha231267@msrim.org,9382022124,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,10:30:00.0000,2024-09-15,11:00:00.0000,Done,1,0
+183,"Debjyoti Saha",debupuchai@gmail.com,7001859731,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"Shagun Jain",shagunjain231202@msrim.org,9980934285,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,11:00:00.0000,2024-09-15,11:30:00.0000,Done,1,0
+183,"Archi Agrawal",archiagrawal231228@msrim.org,6260166652,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"Avinash N Shanbhogue C",avinashnshanbhoguec231200@msrim.org,8762863917,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Done,1,0
+183,"Monika Saha",monikasaha231164@msrim.org,7005449202,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,17:45:00.0000,2024-09-14,18:15:00.0000,Done,1,0
+183,"Prakash N",prakashn231283@msrim.org,9087714138,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"Omkar Dutta",omkardutta231227@msrim.org,7002082831,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,12:15:00.0000,2024-09-15,12:45:00.0000,Done,1,0
+183,"Ks Sreerag",kssreerag231177@msrim.org,9847791100,"Bharat Sharma",bharat8007@gmail.com,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0
+183,"Akaash Narayanan",nakaash231276@msrim.org,9940419432,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Sanjay Singh",sanjaysingh231297@msrim.org,7004171358,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,18:15:00.0000,2024-09-14,18:45:00.0000,Done,1,0
+183,"Prateek Raj",prateekraj231269@msrim.org,7903877375,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Sanjay Senguttuvan Sanjay",ssanjay231289@msrim.org,6385395585,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0
+183,"Not Found",anushkapai231226@msrim.org,7204878512,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Done,1,0
+183,"Supiya Khatun S",supiyakhatuns231296@msrim.org,8088400738,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Meghana Nagabhyru",nagabhyrumeghana231275@msrim.org,8309798523,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,10:30:00.0000,2024-09-15,11:00:00.0000,Done,1,0
+183,"Aariz Kalim",aarizkalim231208@msrim.org,9611498254,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Done,1,0
+183,"Bharani Raja",dbharaniraja231263@msrim.org,9087144948,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Jai Kishen",jaikishen231270@msrim.org,8098775500,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,11:00:00.0000,2024-09-15,11:30:00.0000,Done,1,0
+183,"Akhil M S",msakhil1306@gmail.com,9380822273,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,12:15:00.0000,2024-09-15,12:45:00.0000,Done,1,0
+183,"Yeturi Dakshayani",ydakshayani231215@msrim.org,9390657050,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,12:45:00.0000,2024-09-15,13:15:00.0000,Done,1,0
+183,"Vaishnavi R",r.vaishnavigowda@gmail.com,9980382122,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0
+183,"Kritika Srivastava",kritikasrivastava231271@msrim.org,7307356854,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Done,1,0
+183,"Saniya Prakash",saniyaprakash231291@msrim.org,7091313117,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,15:15:00.0000,2024-09-15,15:45:00.0000,Done,1,0
+183,"Deepti Mishra",deeptimishra231265@msrim.org,7019826526,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Done,1,0
+183,"Lipitha C",lipithac231272@msrim.org,9611773625,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Done,1,0
+183,"Anila A",anilaa231151@msrim.org,9645880423,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"Madhu Mathi B",madhumathib231273@msrim.org,8660688038,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Done,1,0
+183,"Yashaswi Sharma",sharmayash.hmr@gmail.com,9625222025,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"Mantesh Ganesh Naik",manteshganeshnaik231234@msrim.org,9739013159,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"Shreya Santosh Mali",shreyasantoshmali231204@msrim.org,8088817244,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Chethan R",chethanr231155@msrim.org,9986268664,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Nikita Khater",nikitakhater231165@msrim.org,7044084701,"Poornima R M",rmpoornima2015@email.iimcal.ac.in,2024-09-14,18:00:00.0000,2024-09-14,18:30:00.0000,Done,1,0
+183,"Sriram Balaji",bsriram231240@msrim.org,9483810462,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Done,1,0
+183,"Ravitej N",ravitejn231171@msrim.org,7022599369,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-15,17:00:00.0000,2024-09-15,17:30:00.0000,Done,1,0
+183,"M S Akash",msakash231235@msrim.org,8310303317,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,17:45:00.0000,2024-09-14,18:15:00.0000,Done,1,0
+183,"T G Gopal",tggopal231299@msrim.org,8921025885,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,17:00:00.0000,2024-09-15,17:30:00.0000,Done,1,0
+183,"Annaluri Venkata Sai Tharun",avsaitharun231217@msrim.org,9502038524,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Done,1,0
+183,"Bidisha Mal",bidishamal231246@msrim.org,8638235034,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,17:30:00.0000,2024-09-15,18:00:00.0000,Done,1,0
+183,"Utpal Hegde",utpalhegde231239@msrim.org,9353206368,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,15:15:00.0000,2024-09-15,15:45:00.0000,Done,1,0
+183,"Manish Manas Purkait",manishmanaspurkait231209@msrim.org,8639443475,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Done,1,0
+183,"Nivetha Cs",nivethacs231166@msrim.org,8072351654,"Bharat Sharma",bharat8007@gmail.com,2024-09-15,11:00:00.0000,2024-09-15,11:30:00.0000,Done,1,0
+183,"Kunal M S",kunalms231161@msrim.org,7795861948,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,11:00:00.0000,2024-09-15,11:30:00.0000,Done,1,0
+183,"K N Sushma",knsushma231179@msrim.org,9449201336,"Rakesh Roushan",rakeshr2015@email.iimcal.ac.in,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Scheduled,0,1
+183,"Pratibha Kumari",pratibhakumari231169@msrim.org,9955037472,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Done,1,0
+183,"Poojaa N",poojaan231281@msrim.org,8925300445,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Done,1,0
+183,"Surisetty Venkata Sai Sarayu",svenkatasaisarayu231193@msrim.org,9246433377,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,15:15:00.0000,2024-09-15,15:45:00.0000,Done,1,0
+183,"Mule Yaswanth Reddy",myaswanthreddy231212@msrim.org,9912612795,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0
+183,"Mahima Manjunath",mahimam231247@msrim.org,6361056969,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"Prem Nath S",premnaths231285@msrim.org,9489288137,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,12:15:00.0000,2024-09-15,12:45:00.0000,Done,1,0
+183,"Adarsh C",adarshc231238@msrim.org,8660669665,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,14:15:00.0000,2024-09-15,14:45:00.0000,Done,1,0
+183,"Rudramuni H L",munihugar1234@gmail.com,9902903034,"Milind Tembhurne",milind.tembhurne@gmail.com,2024-09-15,12:45:00.0000,2024-09-15,13:15:00.0000,Done,1,0
+183,"Aakanksha S",aakankshas231251@msrim.org,8749017019,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Deepa J",deepa01611@gmail.com,8139963254,"Subhrajit Sarkar",subhro.iimk@gmail.com,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Shweta Komanna Chavan",shwetachavank20@gmail.com,9008699825,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Tejaswini M",tejaswinim231252@msrim.org,9611802723,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,16:30:00.0000,2024-09-15,17:00:00.0000,Done,1,0
+183,"Sikta Bhatt",siktabhatt231241@msrim.org,9131917202,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Rachana K",rachanak231127@msrim.org,7349538179,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"Surbhi Kumari",surbhikumari231298@msrim.org,6207965922,"Ankur Chandgothia",7ankurc@gmail.com,2024-09-15,15:30:00.0000,2024-09-15,16:00:00.0000,Done,1,0
+183,"Ankit Kumar Jha",ankitkumarjha231153@msrim.org,7991183574,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"Pranaav Kumar K",pranaavkumark231168@msrim.org,7338907340,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"Nagma Nikhat",nagmanikhat231198@msrim.org,8088677713,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"Piush Chandgothia",piushchandgothia231167@msrim.org,9101168348,"Venkata Erugu",suman.chin@gmail.com,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"Arpit Singh",arpit9475@gmail.com,7001304590,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0
+183,"Shreyas N",shreyasn231137@msrim.org,9108845006,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Done,1,0
+183,"Vignesh G",vigneshg231146@msrim.org,9148118191,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Raghavendra Sanjiv Kakade",raghavendrakakade231230@msrim.org,9731125979,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,10:00:00.0000,2024-09-14,10:30:00.0000,Scheduled,0,1
+183,"Yogish Mb",yogishmb231149@msrim.org,7848879296,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Done,1,0
+183,"Anwesha Roy",royanwesha766@gmail.com,7002729491,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Likhith Gowda V S",likhithgowdavs231225@msrim.org,8105761969,"Biswa Prateem  Das",biswaprateem@gmail.com,2024-09-15,18:00:00.0000,2024-09-15,18:30:00.0000,Done,1,0
+183,"Siva Teja Lanka",lankasivateja231073@msrim.org,9603818879,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"Nayan Sen",nayansen231076@msrim.org,9002392930,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,10:00:00.0000,2024-09-14,10:30:00.0000,Done,1,0
+183,"Ramya Chintala",chintalaramya231064@msrim.org,8074159322,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,10:00:00.0000,2024-09-14,10:30:00.0000,Done,1,0
+183,"Sonali Chourasia",sonalichourasia231090@msrim.org,7003637622,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Yashwanth S",yashwanths231150@msrim.org,9535540210,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Gautham S Gada",gauthamgada231015@msrim.org,9620886915,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,12:45:00.0000,2024-09-14,13:15:00.0000,Done,1,0
+183,"Rajappagari Janikiram Reddy",rajappagarijanikiramreddy231082@msrim.org,9515983285,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Done,1,0
+183,"Charan Dinakaran",charandinakaran231063@msrim.org,8867012174,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Done,1,0
+183,"Trishanka Debnath",trishankadebnath231094@msrim.org,6296410930,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"Nakul V Ubhayakar",info.nakul85@gmail.com,7349492971,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Nishant Kumar",nishantkumar231077@msrim.org,7903725664,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,14:15:00.0000,2024-09-14,14:45:00.0000,Done,1,0
+183,"Anish Bharadwaj B",anishbharadwajb231005@msrim.org,7975054416,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,16:00:00.0000,2024-09-14,16:30:00.0000,Done,1,0
+183,"P Ravikumar",pravikumar231081@msrim.org,8861911678,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,18:15:00.0000,2024-09-14,18:45:00.0000,Scheduled,0,1
+183,"Yarkareddy Dhanush Reddy",yarkareddydhanush@gmail.com,9182680977,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,14:45:00.0000,2024-09-14,15:15:00.0000,Done,1,0
+183,"S Akilesh",sakilesh231053@msrim.org,7259338974,"Animesh Singhai Anora",animeshwise@gmail.com,2024-09-14,15:15:00.0000,2024-09-14,15:45:00.0000,Done,1,0
+183,"Anshul Verma",anshulverma231059@msrim.org,8299376509,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,16:30:00.0000,2024-09-14,17:00:00.0000,Done,1,0
+183,"Alok Tiwari",aloktiwari231258@msrim.org,9005984696,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Done,1,0
+183,"Joshua Joseph Johnson",joshuajosephjohnson231116@msrim.org,9567565351,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Sachidanand Gupta",sachidanandgupta231035@msrim.org,6393450449,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,17:00:00.0000,2024-09-14,17:30:00.0000,Done,1,0
+183,"Giridhar Subhash Prabhu",giridharsubhashprabhu231229@msrim.org,9448367345,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,10:00:00.0000,2024-09-14,10:30:00.0000,Done,1,0
+183,"Ashish Raj Divakar",ashishraj231060@msrim.org,6204949559,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,10:00:00.0000,2024-09-15,10:30:00.0000,Done,1,0
+183,"Sanatan Ranjan",sanatanranjan231036@msrim.org,8982133646,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,10:30:00.0000,2024-09-15,11:00:00.0000,Done,1,0
+183,"Shamanth S Bhat",shamanthsbhat231038@msrim.org,8951722463,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,11:00:00.0000,2024-09-15,11:30:00.0000,Done,1,0
+183,"Anjali Gupta",anjaligupta231058@msrim.org,7761812396,"Chhavi Anand",chhavianand07@gmail.com,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Done,1,0
+183,"Ayush Raj Yadav",ayushrajyadav231117@msrim.org,7004774638,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,11:45:00.0000,2024-09-15,12:15:00.0000,Done,1,0
+183,"Valliappan Kannan",valliappank231047@msrim.org,8667619265,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,12:15:00.0000,2024-09-15,12:45:00.0000,Done,1,0
+183,"Varsha R S",rsvarsha231049@msrim.org,9080737469,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,12:45:00.0000,2024-09-15,13:15:00.0000,Done,1,0
+183,"Manisha Bhatt",manishabhatt231080@msrim.org,7979950865,"Not Found",NULL,NULL,NULL,NULL,NULL,Initialized,0,1
+183,"Vishwas Kalmani",vishwaskalmani231098@msrim.org,9902370463,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,14:45:00.0000,2024-09-15,15:15:00.0000,Done,1,0
+183,"Kishore G",kishoreg231072@msrim.org,9003229056,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,15:15:00.0000,2024-09-15,15:45:00.0000,Done,1,0
+183,"Ritheka Rajasekaran",rithekarajasekaran231083@msrim.org,9445836021,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,16:00:00.0000,2024-09-15,16:30:00.0000,Done,1,0
+183,"Sunkavalli Likhitha",likhithas231119@msrim.org,8762243444,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,14:15:00.0000,2024-09-15,14:45:00.0000,Done,1,0
+183,"Pranav S Betageri",pranavsbetageri231029@msrim.org,8861224289,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0
+183,"Himanshu Kumar Sinha",himanshukumarsinha231115@msrim.org,8294243282,"Arjun Jayasimha",Arjun.jayasimha@gmail.com,2024-09-15,17:00:00.0000,2024-09-15,17:30:00.0000,Done,1,0
+183,"Sirigiri Srikanth",sirigirisrikanth231139@msrim.org,7095036107,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,10:00:00.0000,2024-09-14,10:30:00.0000,Done,1,0
+183,"Dhawal Thacker",dhawalthacker231135@msrim.org,7873295707,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,10:30:00.0000,2024-09-14,11:00:00.0000,Done,1,0
+183,"Sandeep Daniel",sandeepdaniel231132@msrim.org,7406745621,"Avinash Sahu",avinash.sahu7@gmail.com,2024-09-15,11:00:00.0000,2024-09-15,11:30:00.0000,Done,1,0
+183,"Tasneem Ara Chowdhury",tasneemchowdhury52@gmail.com,9101354049,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,11:00:00.0000,2024-09-14,11:30:00.0000,Done,1,0
+183,"Adarsh Kumar",adarshkumar231101@msrim.org,9163972311,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,11:45:00.0000,2024-09-14,12:15:00.0000,Done,1,0
+183,"Guru Karthik Mangala",mangalagurukarthik231030@msrim.org,9704799945,"Avinash Vishnu",avinashvc@gmail.com,2024-09-14,12:15:00.0000,2024-09-14,12:45:00.0000,Done,1,0

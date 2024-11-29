@@ -1,0 +1,15 @@
+/*
+-- Query: SELECT * FROM category_table
+-- Date: 2024-10-03 11:53
+*/
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (-1,'Resolve feedback',0,NULL,NULL,NULL,NULL,NULL,'{\"ids\": [624, 8, 7]}','{\"ptf\": [\"cc\"]}','2023-11-06 13:17:50');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (1,'Signup/Login Related',3,1,5,3,12,24,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"cc\"]}','2023-07-25 11:26:59');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (2,'Scheduling Issues',1,1,3,NULL,3,24,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"cc\"]}','2023-07-25 11:26:59');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (3,'Activity Issues',2,1,5,3,12,24,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"cc\"]}','2023-07-25 11:26:59');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (4,'Payment Issues',4,1,5,3,12,24,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"cc\", \"rd\"]}','2023-07-25 11:26:59');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (5,'Other Technical Issues',5,5,10,4,48,72,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"cc\"]}','2023-07-25 11:26:59');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (6,'Unable to understand various offerings',6,5,10,4,48,72,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"cc\"]}','2023-07-25 11:26:59');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (7,'Suggestion/General feedback',7,5,10,4,48,72,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"cc\"]}','2023-07-25 11:26:59');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (8,'Other',8,5,10,4,48,72,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"cc\"]}','2023-07-25 11:26:59');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (9,'Failed Reconsider Feedback',8,5,10,4,48,72,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"cc\"]}','2023-11-06 13:11:38');
+INSERT INTO `` (`id`,`name`,`priority_order`,`ops_exec_tat`,`cat_exec_tat`,`cat_exec_add_tat`,`user_tat`,`close_tat`,`user_ids`,`platforms`,`timestamp`) VALUES (10,'Resumes.Digital',0,NULL,NULL,NULL,NULL,NULL,'{\"ids\": [3238, 8, 624, 7]}','{\"ptf\": [\"rd\"]}','2023-07-25 11:26:59');

@@ -1,0 +1,600 @@
+process_id,student_name,mentor_name,order_flag,mentor_feedback_submitted,mentor_feedback_not_submitted
+167,"Nikita Wakudkar","Pranuj Singhal",Done,1,0
+167,"Kumar Gaurav","Varun Gupta",Done,1,0
+167,"Aaliya Hafeez","Rahul Dutta Gupta",Done,1,0
+167,"Aanjaneya Vashishtha","Dheeraj Madaan",Done,1,0
+167,"Aarohi Bapat","Rahul Dutta Gupta",Done,1,0
+167,"Aayushi Soni","Not Found",Purchased,0,1
+167,"Abdur Raheem Shahhul Hameed","Gautam Bothra",Done,1,0
+167,"Abhilash Dwivedi","Mudit Kalra",Done,1,0
+167,"Not Found","Varun Gupta",Done,1,0
+167,"Abhisekh Tripathy","Gautam Bothra",Done,1,0
+167,"Abhishek Singh","Gautam Bothra",Done,1,0
+167,"Adarsh Singh","Vishal Gupta",Done,1,0
+167,"Adarsh Tripathi","Rahul Dutta Gupta",Done,1,0
+167,"Adhil Falah","Not Found",Purchased,0,1
+167,"Adithya S","Kumar Harshdeep",Done,1,0
+167,"Aditi Narang","Prashant  Sindal",Done,1,0
+167,"Aditi Sharma","Prashant  Sindal",Done,1,0
+167,"Aditi Thakur","Dheeraj Madaan",Done,1,0
+167,"Aditya Dey","Gautam Bothra",Done,1,0
+167,"Aditya Narayan","Kumar Harshdeep",Done,1,0
+167,"Akita Saini","Pranuj Singhal",Done,1,0
+167,"Akriti Gautam","Pranuj Singhal",Done,1,0
+167,"Akriti Kumari","Dheeraj Madaan",Done,1,0
+167,"Alka Pandey","Mudit Kalra",Done,1,0
+167,"Alok Kumar","Rahul Dutta Gupta",Done,1,0
+167,"Amit Kumar Saha","Rahul Dutta Gupta",Done,1,0
+167,"Ananya Biswas","Gautam Bothra",Done,1,0
+167,"Ananya Kumar","Dheeraj Madaan",Done,1,0
+167,"Anchal Kumar Singh","Rahul Dutta Gupta",Done,1,0
+167,"Aneesh Biswas","Varun Gupta",Done,1,0
+167,"Anika Kapur","Gautam Bothra",Done,1,0
+167,"Anjali Dave","Pranuj Singhal",Done,1,0
+167,"Anjali Tamboli","Varun Gupta",Done,1,0
+167,"Anjali Verma","Kumar Harshdeep",Done,1,0
+167,"Ankit Tripathi","Gautam Bothra",Scheduled,0,1
+167,"Ankita Guleria","Rahul Dutta Gupta",Done,1,0
+167,"Annu Kumari","Prashant  Sindal",Done,1,0
+167,"Anshuman Raunak","Kumar Harshdeep",Done,1,0
+167,"Anubhav Soni","Dheeraj Madaan",Done,1,0
+167,"Anuj Kumar","Dheeraj Madaan",Done,1,0
+167,"Anurag Bains","Mudit Kalra",Done,1,0
+167,"Not Found","Nagendra Singh",Done,1,0
+167,"Anushka Asthana","Kumar Harshdeep",Done,1,0
+167,"Anushka Ranjan","Varun Gupta",Done,1,0
+167,"Anwesh Pradhan","Vishal Gupta",Done,1,0
+167,"Archi Mishra","Pranuj Singhal",Done,1,0
+167,"Arpit Tripathi","Not Found",Purchased,0,1
+167,"Arshdeep Singh","Vishal Gupta",Done,1,0
+167,"Arun Nachiappan","Rahul Dutta Gupta",Done,1,0
+167,"Arya Singh","Mudit Kalra",Done,1,0
+167,"Avantika Bhardwaj","Dheeraj Madaan",Done,1,0
+167,"Ayan Sharma","Gautam Bothra",Done,1,0
+167,"Ayush Barua","Vishal Gupta",Done,1,0
+167,"Ayushi Garg","Mudit Kalra",Done,1,0
+167,"Bhagya Lakshmi","Not Found",Purchased,0,1
+167,"Bharti Batham","Not Found",Purchased,0,1
+167,"Bhavadharani R","Rahul Dutta Gupta",Scheduled,0,1
+167,"Bhavya Ranka","Mudit Kalra",Done,1,0
+167,"Bhawna Gahlot","Varun Gupta",Done,1,0
+167,"Bhuvanesh Peddakotla","Dheeraj Madaan",Done,1,0
+167,"Bikash Nayak","Prashant  Sindal",Done,1,0
+167,"Chandre Nandu Bansilal","Kumar Harshdeep",Done,1,0
+167,"Chinmay Gunawat","Dheeraj Madaan",Done,1,0
+167,"David Vikas Tigga","Pranuj Singhal",Done,1,0
+167,"Deepan S","Rahul Dutta Gupta",Done,1,0
+167,"Deshpande Desai Pamakarrao","Gautam Bothra",Done,1,0
+167,"Dev Bansal","Dheeraj Madaan",Done,1,0
+167,"Devansh Sohane","Gautam Bothra",Done,1,0
+167,"Devashish Ahuja","Rahul Dutta Gupta",Done,1,0
+167,"Devyani Sanyal","Vishal Gupta",Done,1,0
+167,"Bhoye Dipti Dasharath","Gautam Bothra",Done,1,0
+167,"Divya Mishra","Mudit Kalra",Done,1,0
+167,"Divyajeet Singh","Pranuj Singhal",Done,1,0
+167,"Divyam Raj","Vishal Gupta",Done,1,0
+167,"Deepti Acharya","Dheeraj Madaan",Done,1,0
+167,"Divyanshi Bindal","Mudit Kalra",Done,1,0
+167,"Diya Vatta","Kumar Harshdeep",Done,1,0
+167,"Not Found","Not Found",Purchased,0,1
+167,"Eshita Kalra","Kumar Harshdeep",Done,1,0
+167,"Eslavath Vinod","Not Found",Purchased,0,1
+167,"Gagan Nandan","Gautam Bothra",Scheduled,0,1
+167,"Gaurav Khandare","Rahul Dutta Gupta",Scheduled,0,1
+167,"Gaurav Singh","Rahul Dutta Gupta",Done,1,0
+167,"George Ekka","Kumar Harshdeep",Done,1,0
+167,"Not Found","Vishal Gupta",Done,1,0
+167,"Hamna Khan","Pranuj Singhal",Done,1,0
+167,"Haripriya S G","Not Found",Purchased,0,1
+167,"Harshavi Shah","Mudit Kalra",Done,1,0
+167,"Harshit Singh","Vishal Gupta",Done,1,0
+167,"Harshita Chandaiya","Not Found",Purchased,0,1
+167,"Himanshi Tanwar","Dheeraj Madaan",Done,1,0
+167,"Isha Agarwal","Rahul Dutta Gupta",Done,1,0
+167,"Isha Rawat","Pranuj Singhal",Done,1,0
+167,"Ishita Garg","Dheeraj Madaan",Done,1,0
+167,"Jadhav Aniket Anil","Prashant  Sindal",Done,1,0
+167,"Jasleen Kaur","Vishal Gupta",Done,1,0
+167,"Jay Kishan Meena","Not Found",Purchased,0,1
+167,"Jayan Amrutbhai Tirgar","Nagendra Singh",Done,1,0
+167,"Jennifer Massey","Gautam Bothra",Done,1,0
+167,"Jiten Harjivan Makwana","Mudit Kalra",Done,1,0
+167,"Jos Carl Stephan","Rahul Dutta Gupta",Done,1,0
+167,"Kamble Preeti Govind","Varun Gupta",Done,1,0
+167,"Kanak Lata","Pranuj Singhal",Done,1,0
+167,"Kanika Chauhan","Mudit Kalra",Done,1,0
+167,"Kantimahanthi Manoj","Pranuj Singhal",Done,1,0
+167,"Kapil Singh","Dheeraj Madaan",Done,1,0
+167,"Kapil Yadav","Kumar Harshdeep",Done,1,0
+167,"Karan Tyagi","Mudit Kalra",Done,1,0
+167,"Karthik M","Gautam Bothra",Done,1,0
+167,"Kashyap Shailesh Joshi","Vishal Gupta",Done,1,0
+167,"Kanoj Katta","Dheeraj Madaan",Done,1,0
+167,"Keshav Kashyap","Not Found",Purchased,0,1
+167,"Not Found","Prashant  Sindal",Done,1,0
+167,"Khushbu Thakur","Pranuj Singhal",Done,1,0
+167,"Khushi Arya","Prashant  Sindal",Done,1,0
+167,"Khushi Bansal","Dheeraj Madaan",Done,1,0
+167,"Khushi Yadav","Dheeraj Madaan",Done,1,0
+167,"Khyati Bansal","Kumar Harshdeep",Done,1,0
+167,"Kinshika Sahu","Rahul Dutta Gupta",Done,1,0
+167,"Komal Manglani","Gautam Bothra",Done,1,0
+167,"Korra Harsha Vardhan Chowhan","Vishal Gupta",Done,1,0
+167,"Krishna Padmakar Kulkarni","Rahul Dutta Gupta",Done,1,0
+167,"Kunal Pandey","Kumar Harshdeep",Done,1,0
+167,"Kurada Vijay Sai","Dheeraj Madaan",Done,1,0
+167,"Kusha Agrawal","Rahul Dutta Gupta",Done,1,0
+167,"Lakshey Suri","Pranuj Singhal",Done,1,0
+167,"Lavaniya Bhati","Mudit Kalra",Done,1,0
+167,"Not Found","Gautam Bothra",Done,1,0
+167,"Mahesh Arun Pawar","Gautam Bothra",Done,1,0
+167,"Mande Moses Johnson","Varun Gupta",Done,1,0
+167,"Manoj R","Rahul Dutta Gupta",Done,1,0
+167,"Mayank Kumar","Mudit Kalra",Done,1,0
+167,"Mebanbha Kupar Warjri","Varun Gupta",Done,1,0
+167,"Mohd Salman","Gautam Bothra",Done,1,0
+167,"Mohit Dileep Gupta","Vishal Gupta",Done,1,0
+167,"Mrunali Ghodke","Prashant  Sindal",Done,1,0
+167,"Mukesh Kumar","Mudit Kalra",Done,1,0
+167,"Munesh Mrinal Patel","Vishal Gupta",Done,1,0
+167,"Not Found","Not Found",Purchased,0,1
+167,"Not Found","Rahul Dutta Gupta",Done,1,0
+167,"Muskan Parmar","Prashant  Sindal",Scheduled,0,1
+167,"Not Found","Kumar Harshdeep",Done,1,0
+167,"Nayan Sangawar","Vishal Gupta",Done,1,0
+167,"Neha C","Varun Gupta",Done,1,0
+167,"Neha Jha","Pranuj Singhal",Done,1,0
+167,"Nidhi Khemka","Nagendra Singh",Done,1,0
+167,"Niharika Hansrajani","Not Found",Purchased,0,1
+167,"Nikhila Mylapilli","Varun Gupta",Scheduled,0,1
+167,"Not Found","Not Found",Purchased,0,1
+167,"Nitesh Gupta","Kumar Harshdeep",Done,1,0
+167,"Nitin Chandel","Not Found",Purchased,0,1
+167,"Noorunnisa P M","Varun Gupta",Done,1,0
+167,"Palak Agarwal","Mudit Kalra",Done,1,0
+167,"Pallab Parna Sonowal","Varun Gupta",Done,1,0
+167,"Pampatwar Sayli Santosh","Gautam Bothra",Done,1,0
+167,"Parag Prabhu Sonwane","Pranuj Singhal",Done,1,0
+167,"Pushti Parimal Parikh","Mudit Kalra",Done,1,0
+167,"Parinay Kothari","Nagendra Singh",Done,1,0
+167,"Parmar Yogesh Pravinbhai","Dheeraj Madaan",Done,1,0
+167,"Parth Chauhan","Prashant  Sindal",Done,1,0
+167,"Pavankumar Chigilipalli","Not Found",Purchased,0,1
+167,"Not Found","Kumar Harshdeep",Done,1,0
+167,"Prachee Panigrahi","Varun Gupta",Scheduled,0,1
+167,"Prakhar Gupta","Prashant  Sindal",Done,1,0
+167,"Pranav Pushkar","Kumar Harshdeep",Done,1,0
+167,"Prasad Dattatray Barge","Mudit Kalra",Done,1,0
+167,"Prateek Srivastava","Not Found",Purchased,0,1
+167,"Praveenkumar S","Rahul Dutta Gupta",Done,1,0
+167,"Pravin Suresh Raut","Vishal Gupta",Done,1,0
+167,"Prerna Pande","Vishal Gupta",Done,1,0
+167,"Priyanka Gupta","Not Found",Purchased,0,1
+167,"Rahul Pitale","Vishal Gupta",Scheduled,0,1
+167,"Rahul Madhav Bhagat","Mudit Kalra",Done,1,0
+167,"Rahul Singh","Dheeraj Madaan",Done,1,0
+167,"Rajat Naskar","Nagendra Singh",Done,1,0
+167,"Not Found","Mudit Kalra",Done,1,0
+167,"Rajpal Singh Rao","Rahul Dutta Gupta",Done,1,0
+167,"Raksha Tandon","Not Found",Purchased,0,1
+167,"Ramit Lamba","Gautam Bothra",Scheduled,0,1
+167,"Rashmi Chanda","Dheeraj Madaan",Done,1,0
+167,"Raut Sonam Bhimrao","Dheeraj Madaan",Done,1,0
+167,"Rishab Kumar Bharadwaj","Gautam Bothra",Done,1,0
+167,"Rishabh Das","Gautam Bothra",Done,1,0
+167,"Rishav Garg","Vishal Gupta",Done,1,0
+167,"Ritesh Anmol","Not Found",Purchased,0,1
+167,"Ritik Gupta","Rahul Dutta Gupta",Done,1,0
+167,"Riya Sharan","Pranuj Singhal",Scheduled,0,1
+167,"Rohit Alone","Not Found",Purchased,0,1
+167,"Gothal Rohit Raghunath","Rahul Dutta Gupta",Done,1,0
+167,"Roma Madan","Gautam Bothra",Done,1,0
+167,"Rupam Bej","Gautam Bothra",Done,1,0
+167,"Rutuja Arle","Dheeraj Madaan",Done,1,0
+167,"Sindhuja S","Prashant  Sindal",Done,1,0
+167,"Saba Naz Siddiqui","Varun Gupta",Done,1,0
+167,"Not Found","Rahul Dutta Gupta",Done,1,0
+167,"Safalya Barsagade","Kumar Harshdeep",Done,1,0
+167,"Sageer Mohamed Shaheed","Rahul Dutta Gupta",Done,1,0
+167,"Sahil Bahri","Kumar Harshdeep",Done,1,0
+167,"Sahil Mehran","Varun Gupta",Done,1,0
+167,"Made Sai Raj","Dheeraj Madaan",Done,1,0
+167,"Saimon David","Mudit Kalra",Done,1,0
+167,"Salman Tamimi","Dheeraj Madaan",Done,1,0
+167,"Samriddhi Gour","Pranuj Singhal",Done,1,0
+167,"Sandali Soni","Not Found",Purchased,0,1
+167,"Sandeep Kumar Dhruw","Gautam Bothra",Done,1,0
+167,"Sandip Chakraborty","Vishal Gupta",Scheduled,0,1
+167,"Sankala Harsha Vardhana","Dheeraj Madaan",Done,1,0
+167,"Sankalp Agrawal","Kumar Harshdeep",Done,1,0
+167,"Sankalp Raj","Mudit Kalra",Done,1,0
+167,"Kulkarni Sanket Shashikant","Gautam Bothra",Done,1,0
+167,"Sanskriti Sharma","Dheeraj Madaan",Done,1,0
+167,"Sattenapalli Siva Subramanyam","Vishal Gupta",Done,1,0
+167,"Saumya Singh","Kumar Harshdeep",Done,1,0
+167,"Saumya Singh","Pranuj Singhal",Done,1,0
+167,"Saurabh Suman","Rahul Dutta Gupta",Done,1,0
+167,"Shadab Alam","Gautam Bothra",Done,1,0
+167,"Sharil Agarwal","Gautam Bothra",Done,1,0
+167,"Shashank Hurmade","Dheeraj Madaan",Done,1,0
+167,"Shatabdi Paul","Gautam Bothra",Done,1,0
+167,"Sheshadhri B","Rahul Dutta Gupta",Done,1,0
+167,"Shikhar Kansal","Dheeraj Madaan",Done,1,0
+167,"Shivam Gate","Varun Gupta",Done,1,0
+167,"Shivangini Singh","Kumar Harshdeep",Done,1,0
+167,"Shivani Kanojia","Varun Gupta",Done,1,0
+167,"Shresht Bargujar","Prashant  Sindal",Done,1,0
+167,"Shreya Bagde","Prashant  Sindal",Done,1,0
+167,"Shreya Bose","Vishal Gupta",Done,1,0
+167,"Shreya Sinha","Not Found",Purchased,0,1
+167,"Shruti Goyal","Mudit Kalra",Done,1,0
+167,"Shubham Kumar Jha","Rahul Dutta Gupta",Done,1,0
+167,"Shubham Sharma","Mudit Kalra",Done,1,0
+167,"Siddesh Milind Minde","Mudit Kalra",Done,1,0
+167,"Not Found","Dheeraj Madaan",Done,1,0
+167,"Sneha Vats","Dheeraj Madaan",Done,1,0
+167,"Sonu Singhanika","Varun Gupta",Done,1,0
+167,"Sreejith Gupta","Vishal Gupta",Done,1,0
+167,"Sumantra Sarathi Deb","Vishal Gupta",Done,1,0
+167,"Sunita Soren","Vishal Gupta",Done,1,0
+167,"Swarnika Singh","Pranuj Singhal",Done,1,0
+167,"Swgwmsar Basumatary","Kumar Harshdeep",Done,1,0
+167,"T A Harshini","Mudit Kalra",Scheduled,0,1
+167,"Nisha Talreja","Mudit Kalra",Done,1,0
+167,"Tanmay Sutradhar","Kumar Harshdeep",Done,1,0
+167,"Thotwe Prachi Pundlik","Varun Gupta",Done,1,0
+167,"Tiyasa Barui","Nagendra Singh",Done,1,0
+167,"Turpati Hari Ramakrishna","Vishal Gupta",Done,1,0
+167,"Tushar Mishra","Vishal Gupta",Done,1,0
+167,"Ujwal S","Rahul Dutta Gupta",Done,1,0
+167,"Umesh Sanjay Dhake","Dheeraj Madaan",Done,1,0
+167,"Unnat Jadav","Mudit Kalra",Done,1,0
+167,"Uruba Khan","Gautam Bothra",Scheduled,0,1
+167,"Utsav Singh","Pranuj Singhal",Done,1,0
+167,"Not Found","Prashant  Sindal",Done,1,0
+167,"Vanshika Arora","Gautam Bothra",Done,1,0
+167,"Vari Divya Jyothi","Not Found",Purchased,0,1
+167,"Varshita Jain","Mudit Kalra",Done,1,0
+167,"Vatsal Gupta","Not Found",Purchased,0,1
+167,"Veena Kumari","Mudit Kalra",Done,1,0
+167,"Yash Fagre","Nagendra Singh",Done,1,0
+167,"Yashi Singh","Varun Gupta",Done,1,0
+167,"Yashleen Kaur","Rahul Dutta Gupta",Done,1,0
+167,"Divya Sharma","Varun Gupta",Done,1,0
+167,"Sachin Kumar","Nagendra Singh",Done,1,0
+169,"Aaditya Chinmay Bade","Not Found",Purchased,0,1
+169,"Abhishek Dhakad","Nagendra Singh",Done,1,0
+169,"Adarsh Kumar Singh","Pranuj Singhal",Done,1,0
+169,"Aditi Singh","Prashant  Sindal",Done,1,0
+169,"Ahuti Patidar","Ankit Sancheti",Done,1,0
+169,"Akansha Shrivastva","Ankit Sancheti",Done,1,0
+169,"Akash Ravi Das","Ankit Sancheti",Done,1,0
+169,"Alisha Raj","Nagendra Singh",Done,1,0
+169,"Allan Sam","Ankit Sancheti",Done,1,0
+169,"Aman Kumar","Kumar Harshdeep",Done,1,0
+169,"Anant Jain","Prashant  Sindal",Done,1,0
+169,"Anmol Dilip Rathod","Ankit Sancheti",Done,1,0
+169,"Ansafa J M","Prashant  Sindal",Done,1,0
+169,"Not Found","Nagendra Singh",Done,1,0
+169,"Anuj Kumar","Vishal Gupta",Done,1,0
+169,"Arjit Vihar Pathak","Nagendra Singh",Done,1,0
+169,"Aryan Khanna","Nagendra Singh",Done,1,0
+169,"Banavath Swathi","Prashant  Sindal",Done,1,0
+169,"Shivani Keshav Bele","Kumar Harshdeep",Done,1,0
+169,"Bhavish Singh","Prashant  Sindal",Done,1,0
+169,"Damini Hoon","Prashant  Sindal",Done,1,0
+169,"Deepak Rajendra Sharma","Kumar Harshdeep",Done,1,0
+169,"Deependra Kumar Tiwari","Prashant  Sindal",Done,1,0
+169,"Dev Karan","Pranuj Singhal",Done,1,0
+169,"Dheeraj Slaskar","Kumar Harshdeep",Done,1,0
+169,"Gajalakshmi K","Vishal Gupta",Done,1,0
+169,"Gorti Raghunath","Ankit Sancheti",Scheduled,0,1
+169,"Harshita Lakhera","Ankit Sancheti",Done,1,0
+169,"Ishaan Nagpal","Vishal Gupta",Done,1,0
+169,"Ishika Roy","Nagendra Singh",Done,1,0
+169,"Jasleen Kaur","Nagendra Singh",Done,1,0
+169,"Jatin Sukhramani","Gautam Bothra",Done,1,0
+169,"Kodam Varshini","Nagendra Singh",Done,1,0
+169,"A kogul Bharath","Ankit Sancheti",Done,1,0
+169,"Sonam Kshetre","Nagendra Singh",Done,1,0
+169,"Manish Joshi","Nagendra Singh",Done,1,0
+169,"Megha Yadav","Prashant  Sindal",Done,1,0
+169,"Meka Naga Sirisha","Nagendra Singh",Done,1,0
+169,"Muskan Agarwal","Prashant  Sindal",Done,1,0
+169,"Neerja Timothy","Prashant  Sindal",Done,1,0
+169,"Nitasha M S","Kumar Harshdeep",Done,1,0
+169,"Nitin Yadav","Rahul Dutta Gupta",Done,1,0
+169,"Nitish Prakash","Ankit Sancheti",Done,1,0
+169,"Nitish Raja N","Ankit Sancheti",Done,1,0
+169,"Pathula Issac Jonan","Ankit Sancheti",Done,1,0
+169,"Prasannajit Giri","Kumar Harshdeep",Done,1,0
+169,"Prashasti Pal","Ankit Sancheti",Done,1,0
+169,"Prathakota Sri Harsha Vardhana Avinash","Prashant  Sindal",Done,1,0
+169,"Priyanshu Tyagi","Nagendra Singh",Done,1,0
+169,"Puneet Shukla","Kumar Harshdeep",Done,1,0
+169,"Raghav Sapra","Kumar Harshdeep",Done,1,0
+169,"Raj Verma","Prashant  Sindal",Done,1,0
+169,"Riya Jaiswal","Ankit Sancheti",Done,1,0
+169,"S Roshini","Prashant  Sindal",Done,1,0
+169,"Sachin Singh","Ankit Sancheti",Done,1,0
+169,"Sanghmitra Gaur","Ankit Sancheti",Done,1,0
+169,"Saran K R","Nagendra Singh",Done,1,0
+169,"Satpal Swaroop","Ankit Sancheti",Done,1,0
+169,"Not Found","Not Found",Purchased,0,1
+169,"Saurav Rawat","Ankit Sancheti",Done,1,0
+169,"Shelar Dinesh Sadashiv","Ankit Sancheti",Done,1,0
+169,"Sinf Jawaid","Vishal Gupta",Done,1,0
+169,"Srijan Katiyar","Nagendra Singh",Done,1,0
+169,"Sumit Singhal","Ankit Sancheti",Done,1,0
+169,"Swayashi Kushwah","Ankit Sancheti",Done,1,0
+169,"Tanushree Gautre","Prashant  Sindal",Done,1,0
+169,"Tanvi Shah","Ankit Sancheti",Done,1,0
+169,"Utkarsh Saxena","Prashant  Sindal",Done,1,0
+169,"Vaidehi Praveen Kalekar","Prashant  Sindal",Done,1,0
+169,"Vaidurya Nigam","Vishal Gupta",Done,1,0
+169,"Vaishali Jain","Ankit Sancheti",Done,1,0
+169,"Yogesh Singh","Kumar Harshdeep",Done,1,0
+175,"Ruchi Jadhav","Preetam Biswas",Done,1,0
+175,"Rajarunnivas G","Ramesh Nivash A",Done,1,0
+175,"Shourya  Singh","Ramesh Nivash A",Done,1,0
+175,"Adhwaith  Saicharan","Bharat Sharma",Done,1,0
+175,"Harsh Shah","Ankur Chandgothia",Done,1,0
+175,"Tirumala Mahendra Reddy  Varikuti ","Ankur Chandgothia",Done,1,0
+175,"M Saahit","Bharat Sharma",Done,1,0
+175,"Shreya Singha Roy ","Tapabrata Ghosh",Done,1,0
+175,"Nikhil Agarwal","Bharat Sharma",Done,1,0
+175,"Suhasini Gupta","Vinai Katariya",Done,1,0
+175,"Aditya S V N ","Ankur Chandgothia",Done,1,0
+175,"Santhosh Reddy Botla","Bharat Sharma",Done,1,0
+175,"Ritam Sen","Bharat Sharma",Done,1,0
+175,"Vankadhaaru Pradeep","Ankur Chandgothia",Done,1,0
+175,"Lakshya Jain","Avinash Vishnu",Done,1,0
+175,"Chandan Gowda  H S ","Vinai Katariya",Done,1,0
+175,"Sameer  Ahmad ","Jayant Yadav",Done,1,0
+175,"Urbi Budhadev ","Preetam Biswas",Done,1,0
+175,"Aditya Raj Singh Bisht","Abhinav Saxena",Done,1,0
+175,"Not Found","Jayant Yadav",Done,1,0
+175,"Shreyansh Ranjan","Bharat Sharma",Done,1,0
+175,"Meghdeep Nag","Preetam Biswas",Done,1,0
+175,"Neel Doshi","Avinash Vishnu",Done,1,0
+175,"Gopesh Sarda","Ankur Chandgothia",Done,1,0
+175,"Om Suryawanshi","Ramesh Nivash A",Done,1,0
+175,"Swati  Srivastava ","Avinash Vishnu",Done,1,0
+175,"Debesh  Sarda","Tapabrata Ghosh",Done,1,0
+175,"Antra Dey","Avinash Vishnu",Done,1,0
+175,"Prathamesh  Tavhare ","Ankur Chandgothia",Done,1,0
+175,"Vaibhav Singh","Preetam Biswas",Done,1,0
+175,"Amritesh  Verma","Bharat Sharma",Done,1,0
+175,"Rakshit Dattani","Bharat Sharma",Done,1,0
+175,"Kanhu Charan Panda","Ankur Chandgothia",Done,1,0
+175,"Raj  Dave","Tapabrata Ghosh",Done,1,0
+175,"Jitendra  Balwani","Ankur Chandgothia",Done,1,0
+175,"Swastik Rao","Abhinav Saxena",Done,1,0
+175,"Samarth  Agarwal","Vinai Katariya",Done,1,0
+175,"Tanya Mishra","Avinash Vishnu",Done,1,0
+175,"Shayana Mohapatra","Abhinav Saxena",Done,1,0
+175,"Khushboo Kungwani","Preetam Biswas",Done,1,0
+175,"Lolugu Sujeet","Ramesh Nivash A",Done,1,0
+175,"Sneh Shrouty ","Tapabrata Ghosh",Done,1,0
+175,"Hritik Verma","Tapabrata Ghosh",Done,1,0
+175,"Yashwanth Puli","Ankur Chandgothia",Done,1,0
+175,"Digant  Yadav","Vinai Katariya",Done,1,0
+175,"Sandipan Das","Bharat Sharma",Done,1,0
+175,"Amit Chandwani ","Jayant Yadav",Done,1,0
+175,"Sambuddha Sarkhel","Tapabrata Ghosh",Done,1,0
+175,"Atharva Gandhe","Ramesh Nivash A",Done,1,0
+175,"Rishi  Raj","Ankur Chandgothia",Done,1,0
+175,"Harsh Varshney","Preetam Biswas",Done,1,0
+175,"Yajunshi Tyagi","Bharat Sharma",Done,1,0
+175,"Anushree  Raghuwanshi","Avinash Vishnu",Done,1,0
+175,"Vivek Shanker","Preetam Biswas",Done,1,0
+175,"Raghavendra  Narayanan","Abhinav Saxena",Done,1,0
+175,"Divyam Khunger","Ramesh Nivash A",Done,1,0
+175,"Abhishek Shukla","Vinai Katariya",Done,1,0
+175,"Amal Koshy George ","Jayant Yadav",Done,1,0
+175,"Geetika Tiwari","Vinai Katariya",Done,1,0
+175,"Abhinav Agnihotri","Ankur Chandgothia",Done,1,0
+175,"Anshul  Mittal ","Tapabrata Ghosh",Done,1,0
+175,"Prerona Jana","Avinash Vishnu",Done,1,0
+175,"Venkatesh Garalwar","Avinash Vishnu",Done,1,0
+175,"Savinay Agariya","Vinai Katariya",Done,1,0
+175,"Tamanna Nain","Bharat Sharma",Done,1,0
+175,"Isha Malewar","Jayant Yadav",Done,1,0
+175,"Harshit Singh","Ramesh Nivash A",Done,1,0
+175,"Jatin Garg","Abhinav Saxena",Done,1,0
+175,"Varun Saini","Vinai Katariya",Done,1,0
+175,"Reedika  Kumari ","Abhinav Saxena",Done,1,0
+175,"Khursand Iram","Abhinav Saxena",Done,1,0
+175,"Muskan Sodani","Jayant Yadav",Done,1,0
+175,"Ineesh  Makhijani ","Jayant Yadav",Done,1,0
+175,"Soumyadeep Saha","Preetam Biswas",Done,1,0
+175,"Rishabh Agarwal","Preetam Biswas",Done,1,0
+175,"Vatsalya Jain","Bharat Sharma",Done,1,0
+175,"Aryan Verma","Abhinav Saxena",Done,1,0
+175,"Siddharth Jha","Preetam Biswas",Done,1,0
+175,"Antoreep Ghatak","Vinai Katariya",Done,1,0
+175,"Harsh Bansal","Avinash Vishnu",Done,1,0
+175,"Kunal Khanna  N","Jayant Yadav",Done,1,0
+175,"Jayesh Sharma","Preetam Biswas",Done,1,0
+175,"Aswin Raju","Tapabrata Ghosh",Done,1,0
+175,"Charvi Singh","Preetam Biswas",Done,1,0
+175,"Ananthika  Selvam","Preetam Biswas",Scheduled,0,1
+175,"Prashant  Rohilla ","Jayant Yadav",Done,1,0
+175,"Vansh Agrawal","Preetam Biswas",Done,1,0
+175,"Tanya Sinha","Ankur Chandgothia",Done,1,0
+175,"Abinav  Kumar S","Avinash Vishnu",Done,1,0
+175,"Aswin S M","Jayant Yadav",Done,1,0
+175,"Koundinya Kuppa","Bharat Sharma",Done,1,0
+175,"Parag Sachdev","Abhinav Saxena",Done,1,0
+175,"Soumya Mishra","Tapabrata Ghosh",Done,1,0
+175,"Nakul Raj","Abhinav Saxena",Done,1,0
+175,"Krishna Patel","Ramesh Nivash A",Done,1,0
+175,"Mohit Kumar","Tapabrata Ghosh",Done,1,0
+175,"Harshavarthini  C","Abhinav Saxena",Done,1,0
+175,"Kunal Sharma","Bharat Sharma",Done,1,0
+175,"V H Surya Kaushik  Y","Ramesh Nivash A",Done,1,0
+175,"Hadnoor Sai Dheeraj","Preetam Biswas",Done,1,0
+175,"Soham Nandy","Abhinav Saxena",Done,1,0
+175,"Venkata Pratik Theegala","Not Found",Initialized,0,1
+175,"Harshit Lawaniya","Tapabrata Ghosh",Done,1,0
+175,"Aditya Patni","Jayant Yadav",Done,1,0
+175,"Ayush Jaiswal","Ramesh Nivash A",Done,1,0
+175,"Abinaya Nr","Preetam Biswas",Done,1,0
+175,"Yukta Singh","Jayant Yadav",Done,1,0
+175,"Aneesh Dam","Avinash Vishnu",Done,1,0
+175,"Tanaya Thakur","Tapabrata Ghosh",Done,1,0
+175,"Naushin Sahana","Vinai Katariya",Done,1,0
+175,"N C Srimukhi Srivatsan","Ramesh Nivash A",Done,1,0
+175,"Mukul Parihar","Vinai Katariya",Done,1,0
+175,"Krati  Gandhi ","Preetam Biswas",Done,1,0
+175,"Srinithi  M","Ramesh Nivash A",Done,1,0
+175,"Tushar Ambastha","Jayant Yadav",Done,1,0
+175,"Brindha C","Preetam Biswas",Done,1,0
+175,"Utsav Sinha ","Ramesh Nivash A",Done,1,0
+175,"Kamal Tejwani ","Avinash Vishnu",Done,1,0
+175,"Ayush Mahajan","Bharat Sharma",Done,1,0
+175,"Bhuvan Chopra","Jayant Yadav",Done,1,0
+175,"Richa Dwivedi ","Avinash Vishnu",Done,1,0
+175,"Vedant Mohod","Vinai Katariya",Done,1,0
+175,"Somerup Ponda","Vinai Katariya",Done,1,0
+175,"Ronak Goyal","Ramesh Nivash A",Done,1,0
+175,"Rahul Dandwani","Ankur Chandgothia",Done,1,0
+175,"Sanchay Nagar","Bharat Sharma",Done,1,0
+175,"Srish Vadivelu ","Tapabrata Ghosh",Done,1,0
+175,"Sreetrisha  Roy","Jayant Yadav",Done,1,0
+175,"Niket  Jadon","Ramesh Nivash A",Done,1,0
+175,"Manav Venugopal ","Preetam Biswas",Done,1,0
+175,"Sayan Das","Ramesh Nivash A",Done,1,0
+175,"Athravraj  Kharosekar ","Abhinav Saxena",Done,1,0
+175,"Ishan  Patni","Ankur Chandgothia",Done,1,0
+175,"Suyash  Bajpayee","Abhinav Saxena",Done,1,0
+175,"Vaibhav Gautam","Preetam Biswas",Done,1,0
+175,"Kareena Motwani","Ankur Chandgothia",Done,1,0
+175,"Anushka  Goley ","Not Found",Initialized,0,1
+175,"Nishi Jain","Vinai Katariya",Done,1,0
+175,"Koustav Goswami","Abhinav Saxena",Done,1,0
+175,"Mahek Jhawar","Tapabrata Ghosh",Done,1,0
+175,"Deepak Sharma","Preetam Biswas",Done,1,0
+175,"Viraj  Patil ","Tapabrata Ghosh",Done,1,0
+175,"Jephin  Vs","Tapabrata Ghosh",Done,1,0
+175,"Shivang Mundhra","Preetam Biswas",Done,1,0
+175,"Narendra  Gupta","Preetam Biswas",Done,1,0
+175,"Sourav Sonthalia","Ankur Chandgothia",Done,1,0
+175,"Sudipta  Biswas","Abhinav Saxena",Done,1,0
+175,"Roshan Joshi","Not Found",Purchased,0,1
+175,"Bhavna  Dhawan ","Avinash Vishnu",Done,1,0
+175,"Rishi S","Jayant Yadav",Done,1,0
+175,"Korva Harish","Ankur Chandgothia",Done,1,0
+175,"Aryan Jain","Preetam Biswas",Done,1,0
+175,"Yash Pandey","Abhinav Saxena",Done,1,0
+175,"Hardik Gupta","Avinash Vishnu",Done,1,0
+175,"Md Aquil Akhtar","Avinash Vishnu",Done,1,0
+175,"Shyam Sundar Gopalakrishnan","Ramesh Nivash A",Done,1,0
+175,"Aarya Shrikhande ","Preetam Biswas",Done,1,0
+175,"Rahul  Kumar ","Not Found",Initialized,0,1
+175,"Manikanta Gangasani","Bharat Sharma",Done,1,0
+175,"Not Found","Tapabrata Ghosh",Done,1,0
+175,"Shruti  Singh","Vinai Katariya",Done,1,0
+175,"Naveen  Kumar Sharma ","Avinash Vishnu",Done,1,0
+175,"Kumar  Eklavya","Bharat Sharma",Done,1,0
+175,"Abhay  M S","Vinai Katariya",Done,1,0
+175,"Deepak Kumar","Avinash Vishnu",Done,1,0
+175,"Prageet Nair","Abhinav Saxena",Done,1,0
+175,"Ujwala Amitha Pillarisetty ","Preetam Biswas",Done,1,0
+175,"Adamya Sharma","Vinai Katariya",Done,1,0
+175,"Rishi Srinivas","Ankur Chandgothia",Done,1,0
+175,"Kartik Gupta","Jayant Yadav",Done,1,0
+175,"Sanjay Suresh","Ramesh Nivash A",Done,1,0
+175,"Vivek  Verma ","Preetam Biswas",Done,1,0
+175,"Vinayak Agarwal","Abhinav Saxena",Done,1,0
+175,"Sriram R","Preetam Biswas",Done,1,0
+175,"Prathicksha  S","Tapabrata Ghosh",Done,1,0
+175,"Deboshree Bhaumik","Abhinav Saxena",Done,1,0
+175,"Anshka Gowani","Preetam Biswas",Done,1,0
+175,"Marepalli  Sai Sri Adithya","Ramesh Nivash A",Done,1,0
+175,"Prachi Malpani","Bharat Sharma",Done,1,0
+175,"Tanmay Kaushik","Tapabrata Ghosh",Done,1,0
+175,"Shubham Bhattacharyya","Avinash Vishnu",Done,1,0
+175,"Barath B","Tapabrata Ghosh",Done,1,0
+175,"Devipriya B","Avinash Vishnu",Done,1,0
+175,"Biman Pathak","Tapabrata Ghosh",Done,1,0
+175,"Ananya Partha","Ramesh Nivash A",Done,1,0
+175,"Anirudh R V","Jayant Yadav",Done,1,0
+175,"Samyuktha Arvind","Not Found",Initialized,0,1
+175,"Siddhi Arora","Bharat Sharma",Done,1,0
+175,"Aneesh Chandra","Abhinav Saxena",Done,1,0
+175,"Divyashree V","Ramesh Nivash A",Done,1,0
+175,"Rupak Kumar","Bharat Sharma",Done,1,0
+175,"Nethra Reddy M","Jayant Yadav",Done,1,0
+175,"Vissamsetti Tagore","Bharat Sharma",Done,1,0
+175,"Kondaveeti  Pranitha ","Avinash Vishnu",Done,1,0
+175,"Kshitij  Rakesh","Vinai Katariya",Done,1,0
+175,"Aravapalli  Vijay ","Preetam Biswas",Done,1,0
+175,"Devanshu Das","Jayant Yadav",Done,1,0
+175,"Mukul Nashine","Avinash Vishnu",Done,1,0
+175,"Abhigyan  Das","Jayant Yadav",Done,1,0
+175,"Arjun Datta B T","Ankur Chandgothia",Done,1,0
+175,"Harsh Verma","Vinai Katariya",Done,1,0
+175,"Priyanshi  Saraf ","Tapabrata Ghosh",Done,1,0
+175,"Nityasree Balaji","Tapabrata Ghosh",Done,1,0
+175,"Tulika Gupta","Ankur Chandgothia",Done,1,0
+175,"Utsav Sharma","Ankur Chandgothia",Done,1,0
+175,"Shruti Wankar","Jayant Yadav",Done,1,0
+175,"Mukta Halder","Jayant Yadav",Done,1,0
+175,"Mula Akhil","Vinai Katariya",Done,1,0
+175,"Harikaran M","Ankur Chandgothia",Done,1,0
+175,"Devendra Nikhare","Ankur Chandgothia",Done,1,0
+175,"Savio  Travasso","Jayant Yadav",Done,1,0
+175,"Amisha Singh ","Vinai Katariya",Done,1,0
+175,"Kunal  Sen","Abhinav Saxena",Done,1,0
+175,"Neelam Meghashyam","Preetam Biswas",Done,1,0
+175,"Kulasekaran Vardhan","Bharat Sharma",Done,1,0
+175,"Aditya Prasad","Jayant Yadav",Done,1,0
+175,"Rithika Singh","Ramesh Nivash A",Done,1,0
+175,"Sourav Bose","Tapabrata Ghosh",Done,1,0
+175,"Mohit Acharya","Avinash Vishnu",Done,1,0
+175,"Himangi Pradhan","Avinash Vishnu",Done,1,0
+175,"Dhivakaran C B","Vinai Katariya",Done,1,0
+175,"Palak  Agarwal","Ankur Chandgothia",Done,1,0
+175,"Anju John","Tapabrata Ghosh",Done,1,0
+175,"Chaitanya Kalamkar","Abhinav Saxena",Done,1,0
+175,"Harshita Lulla","Avinash Vishnu",Done,1,0
+175,"Chinmaya  Mohanty ","Vinai Katariya",Done,1,0
+175,"Mohit  Bhatt ","Bharat Sharma",Done,1,0
+175,"Mohit Singh","Vinai Katariya",Done,1,0
+175,"Suwin W","Ankur Chandgothia",Done,1,0
+175,"Mirudubhashini Rajashekar","Not Found",Initialized,0,1
+175,"Yash Choudhary","Avinash Vishnu",Done,1,0
+175,"Shraddha Saluja","Abhinav Saxena",Done,1,0
+175,"Yashi Ojha","Ramesh Nivash A",Done,1,0
+175,"Prajjalit Gogoi","Not Found",Initialized,0,1
+175,"Rohit S Baiju","Ramesh Nivash A",Done,1,0
+175,"Naga Sundara Krishna Chaithanyakumar Areti","Jayant Yadav",Done,1,0
+175,"Nikita  Chaudhary","Ramesh Nivash A",Done,1,0
+175,"Simmavishnu G R Geetha Ramakrishnan","Ramesh Nivash A",Done,1,0
+175,"Zeeshan Abdul Malik","Abhinav Saxena",Done,1,0
+175,"G Shriram ","Ramesh Nivash A",Done,1,0
+175,"Rachagolla Suneel","Vinai Katariya",Done,1,0
+175,"Sohini Sikdar","Preetam Biswas",Done,1,0
+175,"Sumana Sengupta","Not Found",Initialized,0,1
+175,"Arundhati D","Bharat Sharma",Done,1,0
+175,"Sourav Lalwani","Jayant Yadav",Done,1,0
+175,"Pennam Manikumar ","Ankur Chandgothia",Done,1,0
+175,"Pallaprolu Kanduri  Sri Chakri ","Ramesh Nivash A",Done,1,0
+175,"Sai Balakrishnan S","Ramesh Nivash A",Done,1,0
+175,"Nihal Janga","Ramesh Nivash A",Done,1,0
+175,"Harsh Vardhan Mishra","Vinai Katariya",Done,1,0
+175,"Shridatri Mukherjee","Avinash Vishnu",Done,1,0
+175,"Shivani Pramod","Tapabrata Ghosh",Done,1,0
+175,"Sonali Patnaik","Preetam Biswas",Done,1,0
+175,"Ishita  Rajput ","Vinai Katariya",Done,1,0
+175,"Arnav Patil","Bharat Sharma",Done,1,0
+175,"Tejasvini Karthikeyan","Vinai Katariya",Done,1,0
+175,"Alishan Asgar","Vinai Katariya",Done,1,0
+175,"Amandeep Swain","Ramesh Nivash A",Done,1,0
+175,"Nalimela Akshay Reddy","Vinai Katariya",Done,1,0
+175,"Akhil Kumar","Abhinav Saxena",Done,1,0
+175,"Kashish Jain","Vinai Katariya",Done,1,0
+175,"Parthibamani S","Vinai Katariya",Done,1,0
+175,"Ankit Paul","Vinai Katariya",Done,1,0
+175,"Soumita Das","Ramesh Nivash A",Done,1,0
