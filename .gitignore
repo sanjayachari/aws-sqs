@@ -58,3 +58,15 @@ Thumbs.db
 *.sln
 *.swp
 new_env
+
+const awsConfig = {
+  region: 'us-east-1',
+//   credentials: {
+    // accessKeyId: '',
+    // secretAccessKey: '',
+//   },
+};
+
+# access_key = ''
+# secret_key = ''
+# region_name = ''
